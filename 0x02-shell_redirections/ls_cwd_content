@@ -1,1 +1,31 @@
-total 60 drwxr-xr-x 2 root root 273 Apr 17 17:29 . drwxr-xr-x 6 root root 104 Apr 17 13:27 .. -rwxr--r-- 1 root root 31 Apr 17 16:52 0-hello_world -rwxr--r-- 1 root root 28 Apr 17 16:56 1-confused_smiley -rwxr--r-- 1 root root 28 Apr 17 16:38 2-hellofile -rwxr--r-- 1 root root 39 Apr 17 17:01 3-twofiles -rwxr--r-- 1 root root 29 Apr 17 17:05 4-lastlines -rwxr--r-- 1 root root 29 Apr 17 17:07 5-firstline -rwxr--r-- 1 root root 34 Apr 17 17:10 6-third_line -rwxr--r-- 1 root root 98 Apr 17 17:24 7-file -rw-r--r-- 1 root root 55 Apr 17 17:28 8-cwd_state -rw------- 1 root root 12288 Apr 17 17:26 .8-cwd_state.swp -rw-r--r-- 1 root root 40 Apr 17 17:19 \*\\'"Best -rw-r--r-- 1 root root 0 Apr 17 17:29 echo -rw-r--r-- 1 root root 14 Apr 17 17:29 ls_cwd_content -rw-r--r-- 1 root root 26 Apr 17 14:04 README.md
+total 120
+drwxr-xr-x 2 root root  4096 Apr 18 06:06 .
+drwxr-xr-x 6 root root   104 Apr 17 13:27 ..
+-rwxr--r-- 1 root root    32 Apr 18 03:25 0-hello_world
+-rwxr--r-- 1 root root    48 Apr 17 21:50 10-no_more_js
+-rwxr--r-- 1 root root    50 Apr 17 21:54 11-directories
+-rwxr--r-- 1 root root    32 Apr 17 21:56 12-newest_files
+-rwxr--r-- 1 root root    27 Apr 17 22:00 13-unique
+-rwxr--r-- 1 root root    39 Apr 17 22:04 14-findthatword
+-rwxr--r-- 1 root root    46 Apr 17 22:21 15-countthatword
+-rwxr--r-- 1 root root    44 Apr 17 22:11 16-whatsnext
+-rwxr--r-- 1 root root    41 Apr 17 22:13 17-hidethisword
+-rwxr--r-- 1 root root    50 Apr 17 22:40 18-letteronly
+-rwxr--r-- 1 root root    36 Apr 17 22:29 19-AZ
+-rwxr--r-- 1 root root    28 Apr 18 05:13 1-confused_smiley
+-rwxr--r-- 1 root root    23 Apr 17 22:32 20-hiago
+-rwxr--r-- 1 root root    16 Apr 17 22:35 21-reverse
+-rwxr--r-- 1 root root    49 Apr 18 03:19 22-users_and_homes
+-rwxr--r-- 1 root root    28 Apr 18 05:19 2-hellofile
+-rwxr--r-- 1 root root    39 Apr 17 17:01 3-twofiles
+-rwxr--r-- 1 root root    29 Apr 17 17:05 4-lastlines
+-rwxr--r-- 1 root root    29 Apr 18 05:26 5-firstlines
+-rwxr--r-- 1 root root    40 Apr 18 05:32 6-third_line
+-rwxr--r-- 1 root root    98 Apr 18 06:03 7-file
+-rwxr--r-- 1 root root    36 Apr 17 17:40 8-cwd_state
+-rw------- 1 root root 12288 Apr 17 17:26 .8-cwd_state.swp
+-rwxr--r-- 1 root root    37 Apr 17 17:46 9-duplicate_last_line
+-rw-r--r-- 1 root root    12 Apr 18 06:05 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   801 Apr 18 05:52 iacta
+-rw-r--r-- 1 root root     0 Apr 18 06:07 ls_cwd_content
+-rw-r--r-- 1 root root    26 Apr 17 14:04 README.md
